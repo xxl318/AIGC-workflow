@@ -34,7 +34,6 @@ Copy-Item config.example.json config.local.json
 ## 数据与发布边界
 
 这是应用程序成品/源码包，不是预装模型的一键生成整合包。
-**不包含作者制作的视频、音频、人物图片、个人素材库、项目记录、生成历史、私人截图或模型权重。**
 首次启动使用空素材库。默认数据位于用户主目录的 `LiuguangStudioData`，也可用 `data_root` 指定其他目录；不要放入代码仓库。
 `config.local.json` 和 `.env` 不提交。发布构建采用明确的文件清单，不递归收集用户数据。
 
