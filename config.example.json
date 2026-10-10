@@ -1,0 +1,9 @@
+{
+  "data_root": "",
+  "comfy_root": "../ComfyUI",
+  "extra_comfy_root": "",
+  "comfy_python": "",
+  "comfy_http": "http://127.0.0.1:8188",
+  "auto_start_comfy": false,
+  "comfy_args": []
+}
